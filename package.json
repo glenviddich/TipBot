@@ -26,10 +26,10 @@
     "prettier": "1.7.4"
   },
   "name": "tipbot",
-  "version": "1.0.0",
-  "description": "Crypto coin tipbot for Discord",
+  "version": "1.0.1",
+  "description": "ARE coin tipbot for Discord",
   "main": "bot/bot.js",
-  "repository": "https://github.com/MSFTserver/TipBot",
+  "repository": "https://github.com/glenviddich/TipBot",
   "author": "MSFTserver <MSFTserver@gmail.com>",
   "license": "MIT"
 }
